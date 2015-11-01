@@ -1,0 +1,29 @@
+{
+  "name": "get-static-root",
+  "version": "1.0.0",
+  "description": "Calculate static root for JavaScript assets at runtime from HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byondreal/get-static-root.git"
+  },
+  "keywords": [
+    "static",
+    "root",
+    "calculate",
+    "assets",
+    "JavaScript"
+  ],
+  "author": "ByondReal Dev <dev@byondreal.net>",
+  "contributors": [
+    "Anup Bishnoi <pixelsallover@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/byondreal/get-static-root/issues"
+  },
+  "homepage": "https://github.com/byondreal/get-static-root#readme"
+}
